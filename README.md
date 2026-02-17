@@ -1,7 +1,7 @@
 <div align="center">
   
 # From Analysis to Policy: Turning Insights into Rules You Can Defend
-
+ 
 ![Article](https://img.shields.io/badge/Type-Technical%20Article-6f42c1)
 ![Focus](https://img.shields.io/badge/Focus-Decision%20Policy%20Design-0ea5e9)
 ![Topics](https://img.shields.io/badge/Topics-Risk%20%7C%20Thresholds%20%7C%20Monitoring-f59e0b)
