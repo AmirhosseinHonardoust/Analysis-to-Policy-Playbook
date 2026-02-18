@@ -8,7 +8,7 @@
 ![Audience](https://img.shields.io/badge/Audience-Data%20Analysts%20%26%20Data%20Scientists-22c55e)
  
 </div>
-  
+   
 Most data work dies in the gap between **“interesting result”** and **“reliable decision.”**
 
 A chart can be correct and still be useless, because nobody knows:
