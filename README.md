@@ -12,7 +12,7 @@
 Most data work dies in the gap between **“interesting result”** and **“reliable decision.”**
 
 A chart can be correct and still be useless, because nobody knows:
-
+ 
 * what assumptions it depends on,
 * when it’s safe to apply,
 * what it costs when it’s wrong, 
