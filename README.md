@@ -15,7 +15,7 @@ A chart can be correct and still be useless, because nobody knows:
 
 * what assumptions it depends on,
 * when it’s safe to apply,
-* what it costs when it’s wrong,
+* what it costs when it’s wrong, 
 * and what to do when reality drifts.
 
 The fix is not “better storytelling.” The fix is **policy thinking**: converting analysis into **explicit rules** that can be implemented, audited, monitored, and revised.
