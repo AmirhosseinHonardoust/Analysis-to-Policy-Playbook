@@ -6,7 +6,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Decision%20Policy%20Design-0ea5e9)
 ![Topics](https://img.shields.io/badge/Topics-Risk%20%7C%20Thresholds%20%7C%20Monitoring-f59e0b)
 ![Audience](https://img.shields.io/badge/Audience-Data%20Analysts%20%26%20Data%20Scientists-22c55e)
-   
+  
 </div> 
      
 Most data work dies in the gap between **“interesting result”** and **“reliable decision.”**
