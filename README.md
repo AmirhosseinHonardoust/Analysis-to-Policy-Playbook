@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # From Analysis to Policy: Turning Insights into Rules You Can Defend
 
 ![Article](https://img.shields.io/badge/Type-Technical%20Article-6f42c1)
@@ -12,7 +12,7 @@
 Most data work dies in the gap between **“interesting result”** and **“reliable decision.”**
 
 A chart can be correct and still be useless, because nobody knows:
- 
+
 * what assumptions it depends on,
 * when it’s safe to apply,
 * what it costs when it’s wrong, 
